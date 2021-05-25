@@ -1,0 +1,6 @@
+COURSE		FEES				ELIGIBILITY.
+BBA		₹82,000 (1st Year Fees)	10+2.
+B.Des		₹1.66 Lakhs (1st Year Fees)	10+2.
+B.Tech.{Lateral}₹1.66 Lakhs (1st Year Fees)	10+3 + JEE Main.
+MBA		₹1.66 Lakhs (1st Year Fees)	Graduation + CAT.
+B.Tech		₹1.66 Lakhs (1st Year Fees)	10+2 + JEE Main.
